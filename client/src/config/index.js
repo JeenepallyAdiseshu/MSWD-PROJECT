@@ -66,7 +66,7 @@ export const addProductFormElements = [
     ],
   },
   {
-    label: "Brand",
+    label: "Auther",
     name: "brand",
     componentType: "select",
     options: [
